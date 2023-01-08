@@ -1,0 +1,18 @@
+berkay ozturk 7541548 1
+458745521 500 subede konya meram yaka sarami 58 1000.000000 bireysel normal
+kaan atasever 24594515 1
+125014200 250 subede istanbul zeytinburnu sumer 4015 58 550.000000 bireysel ozel
+yasin kart 584125 1
+850320354 1540 yolda ankara cankaya camlitepe ugurlu 45 3388.000000 bireysel ozel
+omercan benim 485124 1
+856222774 458 subede bursa yenisehir kurtulus ”zbay 75 458.000000 kurumsal normal
+umut dogan 745826 2
+5738507 572 kuryede istanbul kadikoy goztepe gedikli 29 1144.000000 bireysel normal
+1251481182 789 subede sanliurfa karakopru karsiyaka yesiloglu 18 1735.800049 bireysel ozel
+fatih yesilcayir 581942 1
+457302142 745 subede isparta merkez zafer 5124 75 1490.000000 bireysel normal
+yunus alpu 4574544 1
+340424063 452 subede konya karatay ihsaniye sofular 1 994.400024 bireysel ozel
+berkay ozturk 2147483647 2
+716712675 160 subede istanbul kadikoy aslanlar koydu 3 352.000000 bireysel ozel
+416747577 45 subede ankara cankaya yazilim dotnet 5 99.000000 bireysel ozel
